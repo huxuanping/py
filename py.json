@@ -22,8 +22,8 @@
 		"name": "快播影视",
 		"type": 3,
 		"api": "py_3qu",
-		"searchable": 0,
-		"quickSearch": 0,
+		"searchable": 1,
+		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://huxuanping.github.io/py/plugin/py_3qu.py"
 	},{
@@ -193,9 +193,9 @@
 		"name": "阿里",
 		"type": 3,
 		"api": "py_ali",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
 		"ext": "https://huxuanping.github.io/py/plugin/py_ali.py"
 	}],
 	"parses": [{
