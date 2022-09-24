@@ -19,7 +19,7 @@
 		"ext": "https://huxuanping.github.io/py/plugin/py_bilivd.py"
 	},{
 		"key": "py_3qu",
-		"name": "3QU",
+		"name": "快播影视",
 		"type": 3,
 		"api": "py_3qu",
 		"searchable": 0,
@@ -63,17 +63,17 @@
 		"filterable": 1,
 		"ext": "https://huxuanping.github.io/py/plugin/py_cyys.py"
 	},{
-		"key": "py_zxzj",
-		"name": "在线之家",
+		"key": "py_kuaikan",
+		"name": "快看影视",
 		"type": 3,
-		"api": "py_zxzj",
+		"api": "py_kuaikan",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://huxuanping.github.io/py/plugin/py_zxzj.py"
+		"ext": "https://huxuanping.github.io/py/plugin/py_kuaikan.py"
 	},{
 		"key": "py_wmkk",
-		"name": "完美看看(半残)",
+		"name": "完美看看",
 		"type": 3,
 		"api": "py_wmkk",
 		"searchable": 1,
@@ -136,7 +136,7 @@
 		"ext": "https://huxuanping.github.io/py/plugin/py_douyu.py"
 	}, {
 		"key": "py_cokemv",
-		"name": "COKE",
+		"name": "Cokemv",
 		"type": 3,
 		"api": "py_cokemv",
 		"searchable": 1,
@@ -145,7 +145,7 @@
 		"ext": "https://huxuanping.github.io/py/plugin/py_cokemv.py"
 	}, {
 		"key": "py_xmaomi",
-		"name": "猫咪",
+		"name": "x小猫咪",
 		"type": 3,
 		"api": "py_xmaomi",
 		"searchable": 1,
